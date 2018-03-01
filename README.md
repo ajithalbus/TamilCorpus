@@ -1,2 +1,4 @@
 # TamilRing
-A Tamil corpus
+A Tamil corpus of ~58M words. 
+
+    Source : Wikipedia,TheHindu(Tamil) 
