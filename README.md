@@ -1,5 +1,5 @@
 # RingCorpus
-A Tamil corpus of ~58M words. 
+##Open Source Tamil Corpus of 58M words
 
     Source : Wikipedia,TheHindu(Tamil) 
 
